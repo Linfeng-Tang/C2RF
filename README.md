@@ -1,6 +1,14 @@
 # C2RF
 This is official Pytorch implementation of "[C2RF: Bridging Multi-modal Image Registration and Fusion via Commonality Mining and Contrastive Learning (IJCV 2025)](https://link.springer.com/article/10.1007/s11263-025-02427-1)"
-
+ - 
+```
+@article{Tang2024C2RF,
+	title={C2RF: Bridging Multi-modal Image Registration and Fusion via Commonality Mining and Contrastive Learning}, 
+	author={Tang, Linfeng and Yan, Qinglong and Xiang, Xinyu and Fang, Leyuan and Ma, Jiayi},
+	journal={International Journal of Computer Vision}, 
+	year={2025},
+}
+```
 ## 1. Recommended Environment
  - [ ] torch  1.10.2+cu102
  - [ ] torchvision 0.8.2 
