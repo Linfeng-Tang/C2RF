@@ -7,6 +7,8 @@ This is official Pytorch implementation of "[C2RF: Bridging Multi-modal Image Re
 	author={Tang, Linfeng and Yan, Qinglong and Xiang, Xinyu and Fang, Leyuan and Ma, Jiayi},
 	journal={International Journal of Computer Vision}, 
 	year={2025},
+  	volume={133},
+  	pages={5262–5280},
 }
 ```
 ## 1. Recommended Environment
